@@ -1,1 +1,1 @@
-# Basic-Full-Screen-Web-
+# Basic-FullScreen-Page
